@@ -36,10 +36,3 @@ dependencyManagement {
 test {
     useJUnitPlatform()
 }
-
-jar {
-    manifest {
-        attributes 'Main-Class': 'com.example.exchangeratebesaev.ExchangeRateBesaevApplication'
-    }
-    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
-}
