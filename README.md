@@ -2,8 +2,8 @@
 
 Запуск программы:
 1) Зайдите в релизы;
-2) Выберите последний релиз (текущая версия v0.0.1);
-3) Скачайте файл ExchangeRatesWithGifsBesaev-0.0.1.jar;
+2) Выберите последний релиз (текущая версия <a href="https://github.com/SergeyBesaev/ExchangeRatesWithGifsBesaev/releases/tag/v0.0.1">v0.0.1</a>);
+3) Скачайте файл <a href="https://github.com/SergeyBesaev/ExchangeRatesWithGifsBesaev/releases/tag/v0.0.1#:~:text=ExchangeRatesWithGifsBesaev-0.0.1.jar">ExchangeRatesWithGifsBesaev-0.0.1.jar</a>;
 4) Запустите файл с помощью комманды "java -jar ExchangeRatesWithGifsBesaev-0.0.1.jar"
 
 После запуска:
